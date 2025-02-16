@@ -1,4 +1,4 @@
-## Guardian of the Ensembles: Introducing Pairwise Adversarially Robust Loss for Resisting Adversarial Attacks in DNN Ensembles
+## Guardian of the Ensembles: Introducing Pairwise Adversarially Robust Loss for Resisting Adversarial Attacks in DNN Ensembles (WACV 2025)
 ### Training PARL
 To train models with PARL loss run the notebook *train_parl.ipynb*.
 
